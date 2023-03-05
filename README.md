@@ -15,16 +15,16 @@ Bootstrap
 ### Models
 
 ##### Cart Model
-Cart ID
+Cart ID <br>
 Cart Items
 
 ##### Item
-Item ID
-Item Name
-Item IMG URL
-Item Cost
-Item Amount
-Item Category
+Item ID <br>
+Item Name <br>
+Item IMG URL <br>
+Item Cost <br>
+Item Amount <br>
+Item Category <br>
 
 ---
 
