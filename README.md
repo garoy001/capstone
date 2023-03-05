@@ -30,5 +30,5 @@ Item Category
 
 ### Wireframes
 
-![Create Page](./capstone-figma-1.png)
-![Show Page](./capstone-figma-2.png)
+![Create Page](./capstone-figma-1.PNG)
+![Show Page](./capstone-figma-2.PNG)
