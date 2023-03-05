@@ -26,4 +26,9 @@ Item Cost
 Item Amount
 Item Category
 
+---
 
+### Wireframes
+
+![Create Page](./capstone-figma-1.png)
+![Show Page](./capstone-figma-2.png)
